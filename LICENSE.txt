@@ -1,4 +1,4 @@
-Copyright (c) 2016 Kunto Aji Kristianto
+Copyright (c) 2016-2021 Kunto Aji Kristianto
 
 MIT License
 
