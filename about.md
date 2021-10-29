@@ -9,12 +9,12 @@ This is the base Dekyll theme. You can find out more info about customizing your
 
 You can find the source code for the Dekyll theme at:
 {% include icon-github.html username="kuntoaji" %} /
-[dekyll](https://github.com/kuntoaji/dekyll)
+[Dekyll](https://github.com/kuntoaji/dekyll)
 
 You can find the source code for the Dekyll for Github Page theme at:
 {% include icon-github.html username="kuntoaji" %} /
-[dekyll](https://github.com/kaklabs/dekyll-for-github)
+[Dekyll for Github](https://github.com/kaklabs/dekyll-for-github)
 
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[Jekyll](https://github.com/jekyll/jekyll)
