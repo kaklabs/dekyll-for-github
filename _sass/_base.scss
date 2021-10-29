@@ -100,7 +100,7 @@ a {
     }
 
     &:hover {
-        color: $text-color;
+        color: $brand-color;
         text-decoration: underline;
     }
 }
@@ -234,4 +234,11 @@ table {
   td {
     border: 1px solid $grey-color-light;
   }
+}
+
+/**
+ * Others
+ */
+iframe {
+  margin-bottom: 30px;
 }

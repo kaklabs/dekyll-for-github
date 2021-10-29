@@ -1,11 +1,3 @@
-a:hover {
-  color: #2a7ae2;
-}
-
-iframe {
-  margin-bottom: 30px;
-}
-
 ul.share-buttons {
   list-style: none;
   padding: 0;
@@ -15,24 +7,6 @@ ul.share-buttons {
 ul.share-buttons li {
   display: inline;
   margin-right: 5px;
-}
-
-.post-content {
-  img {
-    display: block;
-    max-width: 100%;
-    margin: 0 0 1rem;
-    border-radius: 5px;
-    width: 100%;
-  }
-}
-
-.site-title {
-  font-size: 22px;
-}
-
-.site-nav {
-  z-index: 1;
 }
 
 .resp-sharing-button {
